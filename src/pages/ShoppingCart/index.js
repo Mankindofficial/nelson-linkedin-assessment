@@ -245,22 +245,27 @@ const Cart = () => {
                                 </div>
                                 <div className="flex items-center my-1 text-yellow-800">
                                     <img
+                                        alt="rating_image"
                                         className="w-5 h-5"
                                         src="/assets/rating_filled.svg"
                                     />
                                     <img
+                                        alt="rating_image"
                                         className="w-5 h-5"
                                         src="/assets/rating_filled.svg"
                                     />
                                     <img
+                                        alt="rating_image"
                                         className="w-5 h-5"
                                         src="/assets/rating_filled.svg"
                                     />
                                     <img
+                                        alt="rating_image"
                                         className="w-5 h-5"
                                         src="/assets/rating_filled.svg"
                                     />
                                     <img
+                                        alt="rating_image"
                                         className="w-4 h-4"
                                         src="/assets/rating_open.svg"
                                     />
@@ -273,6 +278,7 @@ const Cart = () => {
                                 <div className="flex items-center my-2">
                                     <p className="">
                                         <img
+                                            alt="wisthlist_image"
                                             className="w-4 h-4"
                                             src="/assets/like_icon.svg"
                                         />
