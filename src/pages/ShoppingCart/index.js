@@ -17,6 +17,7 @@ const Cart = () => {
                         <div className="flex items-center border-2 rounded-lg p-2 w-30rem">
                             <div className="w-24 mx-1">
                                 <img
+                                    alt="cart_item_image"
                                     className="w-24 h-20 rounded-xl object-cover shadow-xl"
                                     src="https://st2.depositphotos.com/1000348/6439/i/950/depositphotos_64399139-stock-photo-flour-and-wheat-ears.jpg"
                                 />
@@ -48,22 +49,27 @@ const Cart = () => {
                                 </div>
                                 <div className="flex items-center my-1 text-yellow-800">
                                     <img
+                                        alt="rating_image"
                                         className="w-5 h-5"
                                         src="/assets/rating_filled.svg"
                                     />
                                     <img
+                                        alt="rating_image"
                                         className="w-5 h-5"
                                         src="/assets/rating_filled.svg"
                                     />
                                     <img
+                                        alt="rating_image"
                                         className="w-5 h-5"
                                         src="/assets/rating_filled.svg"
                                     />
                                     <img
+                                        alt="rating_image"
                                         className="w-5 h-5"
                                         src="/assets/rating_filled.svg"
                                     />
                                     <img
+                                        alt="rating_image"
                                         className="w-4 h-4"
                                         src="/assets/rating_open.svg"
                                     />
@@ -76,6 +82,7 @@ const Cart = () => {
                                 <div className="flex items-center my-2">
                                     <p className="">
                                         <img
+                                            alt="wishlist_image"
                                             className="w-4 h-4"
                                             src="/assets/like_icon.svg"
                                         />
@@ -108,6 +115,7 @@ const Cart = () => {
                         <div className="flex items-center border-2 rounded-lg p-2 w-30rem">
                             <div className="w-24 mx-1">
                                 <img
+                                    alt="cart_item_image"
                                     className="w-24 h-20 rounded-xl object-cover shadow-xl"
                                     src="https://www.eatthis.com/wp-content/uploads/sites/4/2019/11/bleached-white-flour.jpg?quality=82&strip=1"
                                 />
@@ -139,22 +147,27 @@ const Cart = () => {
                                 </div>
                                 <div className="flex items-center my-1 text-yellow-800">
                                     <img
+                                        alt="rating_image"
                                         className="w-5 h-5"
                                         src="/assets/rating_filled.svg"
                                     />
                                     <img
+                                        alt="rating_image"
                                         className="w-5 h-5"
                                         src="/assets/rating_filled.svg"
                                     />
                                     <img
+                                        alt="rating_image"
                                         className="w-5 h-5"
                                         src="/assets/rating_filled.svg"
                                     />
                                     <img
+                                        alt="rating_image"
                                         className="w-5 h-5"
                                         src="/assets/rating_filled.svg"
                                     />
                                     <img
+                                        alt="rating_image"
                                         className="w-4 h-4"
                                         src="/assets/rating_open.svg"
                                     />
@@ -167,6 +180,7 @@ const Cart = () => {
                                 <div className="flex items-center my-2">
                                     <p className="">
                                         <img
+                                            alt="wisthlist_image"
                                             className="w-4 h-4"
                                             src="/assets/like_icon.svg"
                                         />
@@ -199,6 +213,7 @@ const Cart = () => {
                         <div className="flex items-center border-2 rounded-lg p-2 w-30rem">
                             <div className="w-24 mx-1">
                                 <img
+                                    alt="cart_item_image"
                                     className="w-24 h-20 rounded-xl object-cover shadow-xl"
                                     src="https://thumbs.dreamstime.com/b/dry-pepper-picture-supermarket-made-china-red-made-chili-products-69187444.jpg"
                                 />
