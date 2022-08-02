@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Cart from "./pages/ShoppingCart";
+import Cart from "./pages/ShoppingCart/index.tsx";
 import Checkout from "./pages/Checkout";
 import ShoppingPage from "./pages/ShoppingPage";
 
